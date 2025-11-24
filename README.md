@@ -32,8 +32,5 @@ Para executar:
 ## Validações Implementadas
 O sistema impede abertura de contas com CPF duplicado, bloqueia operações em contas encerradas, não permite valores inválidos em saques e depósitos, impede saques e transferências sem saldo suficiente e só permite encerrar contas cujo saldo seja exatamente zero.
 
-## Relatório
-O repositório inclui o arquivo Relatorio_UCB.pdf, contendo uma explicação detalhada do projeto, estrutura utilizada, validações implementadas e conclusões gerais do trabalho.
-
 ## Autor
 Cauê – Estudante de Engenharia de Software, Universidade Católica de Brasília (UCB)
